@@ -114,12 +114,12 @@ python main.py
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>交流群14（已满200）</strong></td>
-      <td align="center"><strong>交流群15（推荐加入）</strong></td>
+      <td align="center"><strong>交流群15（已满200）</strong></td>
+      <td align="center"><strong>交流群16（推荐加入）</strong></td>
     </tr>
     <tr>
-      <td><img src="./images/wx_group14-3.png" width="300px" alt="交流群14"></td>
       <td><img src="./images/wx_group15-2.png" width="300px" alt="交流群15"></td>
+      <td><img src="./images/wx_group16.png" width="300px" alt="交流群16"></td>
     </tr>
   </table>
 </div>
